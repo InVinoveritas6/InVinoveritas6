@@ -15,8 +15,10 @@
     <li> Postman, Strapi, Firebase
     <ul/>
 <h2 align="center" >Contacts<h2>
-  <div><a href="https://www.linkedin.com/in/alexander-lagodich-aa2726174/?locale=en_US" target="_blank">LinkedIn</a><div/>
-  <div><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://github.com/blackcater/blackcater/blob/main/images/social-gmail.svg" height="50"/></a><div/>
+  <ul>
+    <li> <a href="https://www.linkedin.com/in/alexander-lagodich-aa2726174/?locale=en_US" target="_blank">LinkedIn</a>
+    <li> <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">Gmail</a>
+    <ul/>
 <!--
 **InVinoveritas6/InVinoveritas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
