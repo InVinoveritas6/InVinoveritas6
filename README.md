@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">FrontEnd (React)<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  height="27"/> Developer</h3>
 <div> Well, I'm Alexandr Lagodich, FrontEnd developer with 1 year of experience in developing at various projets in different sphere. <br/> Purposeful, persistent. I'm not familiar with the word - stress. Multitask. Always lookin to learn something new. <div/>
-<h3 align="center" >A little bit about myself<h3/>
+<h2 align="center" >A little bit about myself
+<h3> My proffesional skills including:<h3/>
   <ul>
     <li>Html5, CSS(Flexbox, Grid Layout, variables), SCSS/SASS, Styled Components
     <li>Bootstrap, Material UI, Ant Design
@@ -13,7 +14,9 @@
     <li>Git, GitHub, Jira
     <li> Postman, Strapi, Firebase
     <ul/>
-
+<h2 align="center" >Contacts<h2>
+  <div><a href="https://www.linkedin.com/in/alexander-lagodich-aa2726174/?locale=en_US" target="_blank">LinkedIn</a><div/>
+  <div><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://github.com/blackcater/blackcater/blob/main/images/social-gmail.svg" height="50"/></a><div/>
 <!--
 **InVinoveritas6/InVinoveritas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
