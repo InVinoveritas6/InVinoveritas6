@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/alexander-lagodich-aa2726174/?locale=en_US" target="_blank">Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">FrontEnd (React) Developer</h3>
+<p> Well, I'm Alexandr Lagodich, FrontEnd deceloper with 1 year of experience in developing at various projetsin different sphere. <p/>
 <!--
 **InVinoveritas6/InVinoveritas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
