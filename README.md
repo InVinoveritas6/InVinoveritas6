@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/alexander-lagodich-aa2726174/?locale=en_US" target="_blank">Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">FrontEnd (React) Developer</h3>
-<div background="red"> Well, I'm Alexandr Lagodich, FrontEnd deceloper with 1 year of experience in developing at various projets in different sphere. <div/>
-<p> Purposeful, persistent. I'm not familiar with the word - stress. Multitask. Always lookin to learn something new. <p/>
+<h3 align="center">FrontEnd (React)<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="32"/> Developer</h3>
+<div> Well, I'm Alexandr Lagodich, FrontEnd deceloper with 1 year of experience in developing at various projets in different sphere. <br/> Purposeful, persistent. I'm not familiar with the word - stress. Multitask. Always lookin to learn something new. <div/>
+<h3>A little bit about myself<h3/>
+
 <!--
 **InVinoveritas6/InVinoveritas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
