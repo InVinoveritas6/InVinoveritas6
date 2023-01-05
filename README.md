@@ -4,7 +4,7 @@
 <div> Well, I'm Alexandr Lagodich, FrontEnd deceloper with 1 year of experience in developing at various projets in different sphere. <br/> Purposeful, persistent. I'm not familiar with the word - stress. Multitask. Always lookin to learn something new. <div/>
 <h3 align="center" >A little bit about myself<h3/>
   <ul>
-    <li> Html <li/>
+    <li> Html <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  height="27"/> <li/>
     <ul/>
 
 <!--
